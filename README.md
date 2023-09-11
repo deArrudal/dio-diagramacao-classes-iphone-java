@@ -29,7 +29,9 @@ DIAGRAMAÇÃO DE CLASSES DO IPHONE
 
 ### UML models
 
+* **iPhone**
 
+    ![iPhone UML Model]()
     
 ## Authors
 
@@ -39,6 +41,8 @@ DIAGRAMAÇÃO DE CLASSES DO IPHONE
 
 * 0.1
     * Initial Release
+* 0.2
+    * Add UML model and Java files.
 
 ## License
 
