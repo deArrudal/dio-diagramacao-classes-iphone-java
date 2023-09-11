@@ -1,0 +1,7 @@
+### Java ###
+# Compiled class file
+*.class
+
+### VisualStudioCode ###
+.vscode
+
